@@ -1,15 +1,4 @@
-# Description of Roles and Features 
-
-Active Directory Domain Services (AD DS): 
-
-Domain Controller (DC) role:
-
-Dynamic Host Configuration Protocol (DHCP) service:
-
-Remote Access Service / Network Access Control (RAS / NAT):
-
-
-## Installing Active Directory Domain Services (AD DS) on Windows Server
+# Installing Active Directory Domain Services (AD DS) on Windows Server
 In this part, I installed AD DS to enable the Domain Controller role and create a domain from which clients could join.
 
 My first step was to rename the Windows Server to "DC-01", to easily identify it and to ensure a smooth transition when enabling the domain controller role and the configuration of additional services.
