@@ -56,6 +56,7 @@ Within The Windows Server OS, use the search bar to find and select the **Contro
         -  You can choose any Class A, Class B, or Class C IP address depending on whether you want to replicate an enterprise, medium, or small company respectively. 
       - The *subnet* will be **255.255.255.0**
       - I did not input a *Default Gateway* as the Windows server was set up as a DHCP server later on during the setup of the DHCP service using *Server Manager*. 
-      - For the *Preferred DNS Server* setup as of the internal adapter, I chose the address of **127.0.0.1**      
+      - For the *Preferred DNS Server* setup as of the internal adapter, I chose the address of **127.0.0.1**
+      - Ensure you click on **OK** afterwards to save your configurations.     
 
 ![image](https://github.com/Chaac9/Setting-up-AD-Domain-RAS-NAT-DHCP-on-Windows-Server-and-Adding-a-Client-to-the-Domain.md/assets/98796264/a313568b-a22e-4eb1-ac05-0e6e0fbf21d0)
